@@ -1,2 +1,3 @@
 how are you, Claude code 
- are you really fine?
+are you really fine?
+check how the terminal display the change.
