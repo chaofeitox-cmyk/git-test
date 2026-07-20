@@ -1,2 +1,3 @@
 how are you, Claude code 
-
+add something for git test purpose.
+add the third row for git diff purpose.
